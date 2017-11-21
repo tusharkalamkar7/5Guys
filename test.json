@@ -1,13 +1,12 @@
 [  
 	{ "P1" : [{  
-      	"M-Key":"Tile1",
-      	"Name":"COKE & FRIES",
-      	"Value":"8",
+      	"TileKey":"Tile1",
+      	"KPIName":"COKE & FRIES",
+      	"KPIValue":"8",
       	"Suffix":"%",
       	"Prefix":"",
-      	"Goal":"60",
-	"KPICorrelation":"3",
-      	"KPIType":"N"
+      	"KPIGoal":"60",
+	"KPICorrelation":"3"
    },
    {  
       	"M-Key":"Tile2",
