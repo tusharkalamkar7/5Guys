@@ -1,6 +1,46 @@
 [  
    {  
       	"M-Key":"Tile1",
+	[{  
+      	"M-Key":"Tile2",
+      	"Name":"FOOD AUV",
+      	"Value":"122000",
+      	"Suffix":"K",
+      	"Prefix":"$",
+      	"Goal":"170000",
+      	"KPICorrelation":"3",
+      	"KPIType":"N"
+   },
+   {  
+      	"M-Key":"Tile3",
+      	"Name":"TICKET TIME",
+      	"Value":"40",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"30",
+	"KPICorrelation":"3",
+      	"KPIType":"P"
+   },
+   {  
+      	"M-Key":"Tile4",
+      	"Name":"# OF CUSTOMERS",
+      	"Value":"720",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"1400",
+	"KPICorrelation":"2",
+      	"KPIType":"N"
+   },
+   {  
+      	"M-Key":"Tile5",
+      	"Name":"BEVERAGE SALES",
+      	"Value":"90",
+      	"Suffix":"",
+      	"Prefix":"$",
+      	"Goal":"50",
+	"KPICorrelation":"2",
+      	"KPIType":"P"
+   }],
       	"Name":"COKE & FRIES",
       	"Value":"8",
       	"Suffix":"%",
