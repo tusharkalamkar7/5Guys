@@ -1,5 +1,5 @@
 [  
-   {  
+	{ "P1" : [{  
       	"M-Key":"Tile1",
       	"Name":"COKE & FRIES",
       	"Value":"8",
@@ -38,7 +38,16 @@
       	"Goal":"1400",
 	"KPICorrelation":"2",
       	"KPIType":"N"
-   },
+   }],
+        "M-Key":"Tile4",
+      	"Name":"# OF CUSTOMERS",
+      	"Value":"720",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"1400",
+	"KPICorrelation":"2",
+      	"KPIType":"N" 
+}
    {  
       	"M-Key":"Tile5",
       	"Name":"BEVERAGE SALES",
