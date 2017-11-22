@@ -34,7 +34,17 @@
       	"Prefix":"",
       	"KPIGoal":"1400",
 	"KPICorrelation":"2"
-   }],
+   },
+   {  
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
+   }
+],
         "TileKey":"Tile4",
       	"KPIName":"# OF CUSTOMERS",
       	"KPIValue":"720",
