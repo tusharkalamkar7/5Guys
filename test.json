@@ -6,7 +6,10 @@
       	"Suffix":"%",
       	"Prefix":"",
       	"KPIGoal":"60",
-	      "KPICorrelation":"3"
+	      "KPICorrelation":"3",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
       	"TileKey":"Tile2",
@@ -15,7 +18,10 @@
       	"Suffix":"K",
       	"Prefix":"$",
       	"KPIGoal":"170000",
-      	"KPICorrelation":"3"
+      	"KPICorrelation":"3",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
       	"TileKey":"Tile3",
@@ -24,7 +30,10 @@
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"30",
-	"KPICorrelation":"3"
+	     "KPICorrelation":"3",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
       	"TileKey":"Tile4",
@@ -33,123 +42,165 @@
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"1400",
-	"KPICorrelation":"2"
+	     "KPICorrelation":"2",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-         "TileKey":"Tile10",
+         "TileKey":"Tile5",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    }
 ],
-        "TileKey":"Tile4",
+        "TileKey":"Tile6",
       	"KPIName":"# OF CUSTOMERS",
       	"KPIValue":"720",
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"1400",
-	"KPICorrelation":"2"
+	     "KPICorrelation":"2",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
 },
   { "P2" : [{  
-      	"TileKey":"Tile5",
+      	"TileKey":"Tile7",
       	"KPIName":"BEVERAGE SALES",
       	"KPIValue":"90",
       	"Suffix":"",
       	"Prefix":"$",
       	"KPIGoal":"50",
-	"KPICorrelation":"2"
+	     "KPICorrelation":"2",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-      	"TileKey":"Tile6",
+      	"TileKey":"Tile8",
       	"KPIName":"C. SAT",
       	"KPIValue":"72",
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"85",
-	"KPICorrelation":"2"
+	     "KPICorrelation":"2",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-      	"TileKey":"Tile7",
+      	"TileKey":"Tile9",
       	"KPIName":"AMBIANCE",
       	"KPIValue":"60",
       	"Suffix":"%",
       	"Prefix":"",
       	"KPIGoal":"85",
-	"KPICorrelation":"1"
+	     "KPICorrelation":"1",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-      	"TileKey":"Tile8",
+      	"TileKey":"Tile10",
       	"KPIName":"ACTUAL/THEO. COST",
       	"KPIValue":"72",
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"92",
-	"KPICorrelation":"1"
+	     "KPICorrelation":"1",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    }],
  
-      	"TileKey":"Tile9",
+      	"TileKey":"Tile11",
       	"KPIName":"LABOR / SALES",
       	"KPIValue":"6.5",
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"28",
-	"KPICorrelation":"1"
+	     "KPICorrelation":"1",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {"P3":[{  
-      	"TileKey":"Tile10",
+      	"TileKey":"Tile12",
       	"KPIName":"SPEED OF SERVICE",
       	"KPIValue":"6.5",
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"12",
-	     "KPICorrelation":"1"
+	     "KPICorrelation":"1",
+        "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-         "TileKey":"Tile10",
+         "TileKey":"Tile13",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-         "TileKey":"Tile10",
+         "TileKey":"Tile14",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-         "TileKey":"Tile10",
+         "TileKey":"Tile15",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    },
    {  
-         "TileKey":"Tile10",
+         "TileKey":"Tile16",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    }],
-         "TileKey":"Tile10",
+         "TileKey":"Tile17",
          "KPIName":"SPEED OF SERVICE",
          "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
          "KPIGoal":"12",
-   "KPICorrelation":"1"
+         "KPICorrelation":"1",
+         "Threshold1":"",
+         "Threshold2":"",
+         "Threshold3":""
    }
 
 ]
