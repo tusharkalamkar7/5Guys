@@ -1,0 +1,38 @@
+[  
+   {  
+      	"ParentKey":"Parent1",
+      	"KPIName":"AUV",
+      	"KPIValue":"192000",
+      	"Suffix":"K",
+      	"Prefix":"$",
+      	"KPIGoal":"210000",
+	     "KPICorrelation":"2",
+        "Threshold1":"194000",
+         "Threshold2":"200000",
+         "Threshold3":"210000"
+   },
+   {  
+      	"ParentKey":"Parent2",
+      	"KPIName":"TRANS. GROWTH",
+      	"KPIValue":"10",
+      	"Suffix":"%",
+      	"Prefix":"",
+      	"KPIGoal":"8",
+	     "KPICorrelation":"1",
+        "Threshold1":"3",
+         "Threshold2":"6",
+         "Threshold3":"8"
+   },
+   {  
+      	"ParentKey":"Parent3",
+         "KPIName":"SECRET SHOP (AVG)",
+         "KPIValue":"76",
+         "Suffix":"",
+         "Prefix":"",
+         "KPIGoal":"87",
+         "KPICorrelation":"1",
+         "Threshold1":"78",
+         "Threshold2":"84",
+         "Threshold3":"87"
+   }
+]
