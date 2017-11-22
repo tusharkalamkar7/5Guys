@@ -47,7 +47,7 @@
 	"KPICorrelation":"2",
       	"KPIType":"N" 
 },
-   {  
+  { "P2" : [{  
       	"M-Key":"Tile5",
       	"Name":"BEVERAGE SALES",
       	"Value":"90",
@@ -86,8 +86,8 @@
       	"Goal":"92",
 	"KPICorrelation":"1",
       	"KPIType":"N"
-   },
-   {  
+   }],
+ 
       	"M-Key":"Tile9",
       	"Name":"LABOR / SALES",
       	"Value":"6.5",
