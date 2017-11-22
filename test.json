@@ -97,7 +97,7 @@
 	"KPICorrelation":"1",
       	"KPIType":"N"
    },
-   {  
+   {"P3":[{  
       	"M-Key":"Tile10",
       	"Name":"SPEED OF SERVICE",
       	"Value":"6.5",
@@ -106,5 +106,55 @@
       	"Goal":"12",
 	"KPICorrelation":"1",
       	"KPIType":"N"
-   }
+   },
+   {  
+         "M-Key":"Tile10",
+         "Name":"SPEED OF SERVICE",
+         "Value":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "Goal":"12",
+   "KPICorrelation":"1",
+         "KPIType":"N"
+   },
+   {  
+         "M-Key":"Tile10",
+         "Name":"SPEED OF SERVICE",
+         "Value":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "Goal":"12",
+   "KPICorrelation":"1",
+         "KPIType":"N"
+   },
+   {  
+         "M-Key":"Tile10",
+         "Name":"SPEED OF SERVICE",
+         "Value":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "Goal":"12",
+   "KPICorrelation":"1",
+         "KPIType":"N"
+   },
+   {  
+         "M-Key":"Tile10",
+         "Name":"SPEED OF SERVICE",
+         "Value":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "Goal":"12",
+   "KPICorrelation":"1",
+         "KPIType":"N"
+   }],
+    "M-Key":"Tile10",
+         "Name":"SPEED OF SERVICE",
+         "Value":"6.5",
+         "Suffix":"",
+         "Prefix":"",
+         "Goal":"12",
+   "KPICorrelation":"1",
+         "KPIType":"N"
+         }
+
 ]
