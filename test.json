@@ -6,155 +6,140 @@
       	"Suffix":"%",
       	"Prefix":"",
       	"KPIGoal":"60",
+	      "KPICorrelation":"3"
+   },
+   {  
+      	"TileKey":"Tile2",
+      	"KPIName":"FOOD AUV",
+      	"KPIValue":"122000",
+      	"Suffix":"K",
+      	"Prefix":"$",
+      	"KPIGoal":"170000",
+      	"KPICorrelation":"3"
+   },
+   {  
+      	"TileKey":"Tile3",
+      	"KPIName":"TICKET TIME",
+      	"KPIValue":"40",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"KPIGoal":"30",
 	"KPICorrelation":"3"
    },
    {  
-      	"M-Key":"Tile2",
-      	"Name":"FOOD AUV",
-      	"Value":"122000",
-      	"Suffix":"K",
-      	"Prefix":"$",
-      	"Goal":"170000",
-      	"KPICorrelation":"3",
-      	"KPIType":"N"
-   },
-   {  
-      	"M-Key":"Tile3",
-      	"Name":"TICKET TIME",
-      	"Value":"40",
+      	"TileKey":"Tile4",
+      	"KPIName":"# OF CUSTOMERS",
+      	"KPIValue":"720",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"30",
-	"KPICorrelation":"3",
-      	"KPIType":"P"
-   },
-   {  
-      	"M-Key":"Tile4",
-      	"Name":"# OF CUSTOMERS",
-      	"Value":"720",
-      	"Suffix":"",
-      	"Prefix":"",
-      	"Goal":"1400",
-	"KPICorrelation":"2",
-      	"KPIType":"N"
+      	"KPIGoal":"1400",
+	"KPICorrelation":"2"
    }],
-        "M-Key":"Tile4",
-      	"Name":"# OF CUSTOMERS",
-      	"Value":"720",
+        "TileKey":"Tile4",
+      	"KPIName":"# OF CUSTOMERS",
+      	"KPIValue":"720",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"1400",
-	"KPICorrelation":"2",
-      	"KPIType":"N" 
+      	"KPIGoal":"1400",
+	"KPICorrelation":"2"
 },
   { "P2" : [{  
-      	"M-Key":"Tile5",
-      	"Name":"BEVERAGE SALES",
-      	"Value":"90",
+      	"TileKey":"Tile5",
+      	"KPIName":"BEVERAGE SALES",
+      	"KPIValue":"90",
       	"Suffix":"",
       	"Prefix":"$",
-      	"Goal":"50",
-	"KPICorrelation":"2",
-      	"KPIType":"P"
+      	"KPIGoal":"50",
+	"KPICorrelation":"2"
    },
    {  
-      	"M-Key":"Tile6",
-      	"Name":"C. SAT",
-      	"Value":"72",
+      	"TileKey":"Tile6",
+      	"KPIName":"C. SAT",
+      	"KPIValue":"72",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"85",
-	"KPICorrelation":"2",
-      	"KPIType":"N"
+      	"KPIGoal":"85",
+	"KPICorrelation":"2"
    },
    {  
-      	"M-Key":"Tile7",
-      	"Name":"AMBIANCE",
-      	"Value":"60",
+      	"TileKey":"Tile7",
+      	"KPIName":"AMBIANCE",
+      	"KPIValue":"60",
       	"Suffix":"%",
       	"Prefix":"",
-      	"Goal":"85",
-	"KPICorrelation":"1",
-      	"KPIType":"N"
+      	"KPIGoal":"85",
+	"KPICorrelation":"1"
    },
    {  
-      	"M-Key":"Tile8",
-      	"Name":"ACTUAL/THEO. COST",
-      	"Value":"72",
+      	"TileKey":"Tile8",
+      	"KPIName":"ACTUAL/THEO. COST",
+      	"KPIValue":"72",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"92",
-	"KPICorrelation":"1",
-      	"KPIType":"N"
+      	"KPIGoal":"92",
+	"KPICorrelation":"1"
    }],
  
-      	"M-Key":"Tile9",
-      	"Name":"LABOR / SALES",
-      	"Value":"6.5",
+      	"TileKey":"Tile9",
+      	"KPIName":"LABOR / SALES",
+      	"KPIValue":"6.5",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"28",
-	"KPICorrelation":"1",
-      	"KPIType":"N"
+      	"KPIGoal":"28",
+	"KPICorrelation":"1"
    },
    {"P3":[{  
-      	"M-Key":"Tile10",
-      	"Name":"SPEED OF SERVICE",
-      	"Value":"6.5",
+      	"TileKey":"Tile10",
+      	"KPIName":"SPEED OF SERVICE",
+      	"KPIValue":"6.5",
       	"Suffix":"",
       	"Prefix":"",
-      	"Goal":"12",
-	"KPICorrelation":"1",
-      	"KPIType":"N"
+      	"KPIGoal":"12",
+	     "KPICorrelation":"1"
    },
    {  
-         "M-Key":"Tile10",
-         "Name":"SPEED OF SERVICE",
-         "Value":"6.5",
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
-         "Goal":"12",
-   "KPICorrelation":"1",
-         "KPIType":"N"
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
    },
    {  
-         "M-Key":"Tile10",
-         "Name":"SPEED OF SERVICE",
-         "Value":"6.5",
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
-         "Goal":"12",
-   "KPICorrelation":"1",
-         "KPIType":"N"
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
    },
    {  
-         "M-Key":"Tile10",
-         "Name":"SPEED OF SERVICE",
-         "Value":"6.5",
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
-         "Goal":"12",
-   "KPICorrelation":"1",
-         "KPIType":"N"
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
    },
    {  
-         "M-Key":"Tile10",
-         "Name":"SPEED OF SERVICE",
-         "Value":"6.5",
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
-         "Goal":"12",
-   "KPICorrelation":"1",
-         "KPIType":"N"
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
    }],
-    "M-Key":"Tile10",
-         "Name":"SPEED OF SERVICE",
-         "Value":"6.5",
+         "TileKey":"Tile10",
+         "KPIName":"SPEED OF SERVICE",
+         "KPIValue":"6.5",
          "Suffix":"",
          "Prefix":"",
-         "Goal":"12",
-   "KPICorrelation":"1",
-         "KPIType":"N"
-         }
+         "KPIGoal":"12",
+   "KPICorrelation":"1"
+   }
 
 ]
