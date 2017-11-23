@@ -115,10 +115,10 @@
       	"Suffix":"K",
       	"Prefix":"$",
       	"KPIGoal":"210000",
-	     "KPICorrelation":"2",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+	 "KPICorrelation":"2",
+         "Threshold1":"194000",
+         "Threshold2":"200000",
+         "Threshold3":"210000"
 },
   { "P2" : [{  
       	"TileKey":"Tile10",
