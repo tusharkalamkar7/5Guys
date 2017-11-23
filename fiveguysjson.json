@@ -123,14 +123,14 @@
   { "P2" : [{  
       	"TileKey":"Tile10",
       	"KPIName":"SALES",
-      	"KPIValue":"90",
-      	"Suffix":"",
+      	"KPIValue":"50",
+      	"Suffix":"K",
       	"Prefix":"$",
-      	"KPIGoal":"50",
-	     "KPICorrelation":"2",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+      	"KPIGoal":"90",
+	     "KPICorrelation":"3",
+        "Threshold1":"30",
+         "Threshold2":"60",
+         "Threshold3":"90"
    },
    {  
       	"TileKey":"Tile11",
@@ -140,9 +140,9 @@
       	"Prefix":"",
       	"KPIGoal":"85",
 	     "KPICorrelation":"2",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+        "Threshold1":"75",
+         "Threshold2":"80",
+         "Threshold3":"85"
    },
    {  
       	"TileKey":"Tile12",
@@ -152,21 +152,21 @@
       	"Prefix":"",
       	"KPIGoal":"85",
 	     "KPICorrelation":"1",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+        "Threshold1":"55",
+         "Threshold2":"70",
+         "Threshold3":"85"
    },
    {  
       	"TileKey":"Tile13",
       	"KPIName":"ACTUAL/COST",
-      	"KPIValue":"72",
+      	"KPIValue":"92",
       	"Suffix":"",
       	"Prefix":"",
-      	"KPIGoal":"92",
-	     "KPICorrelation":"1",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+      	"KPIGoal":"82",
+	     "KPICorrelation":"3",
+        "Threshold1":"65",
+         "Threshold2":"70",
+         "Threshold3":"82"
    }],
  
       	"ParentKey":"Parent2",
@@ -187,69 +187,69 @@
       	"Suffix":"",
       	"Prefix":"",
       	"KPIGoal":"12",
-	     "KPICorrelation":"1",
-        "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+	     "KPICorrelation":"3",
+        "Threshold1":"7",
+         "Threshold2":"10",
+         "Threshold3":"12"
    },
    {  
          "TileKey":"Tile15",
          "KPIName":"SPEED",
-         "KPIValue":"6.5",
+         "KPIValue":"21",
          "Suffix":"",
          "Prefix":"",
-         "KPIGoal":"12",
+         "KPIGoal":"32",
          "KPICorrelation":"1",
-         "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+         "Threshold1":"15",
+         "Threshold2":"22",
+         "Threshold3":"32"
    },
    {  
          "TileKey":"Tile16",
          "KPIName":"MFG",
-         "KPIValue":"6.5",
-         "Suffix":"",
-         "Prefix":"",
-         "KPIGoal":"12",
-         "KPICorrelation":"1",
-         "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+         "KPIValue":"56",
+         "Suffix":"K",
+         "Prefix":"$",
+         "KPIGoal":"82",
+         "KPICorrelation":"2",
+         "Threshold1":"40",
+         "Threshold2":"60",
+         "Threshold3":"82"
    },
    {  
          "TileKey":"Tile17",
          "KPIName":"TARGET SERVICES",
-         "KPIValue":"6.5",
+         "KPIValue":"20",
          "Suffix":"",
          "Prefix":"",
-         "KPIGoal":"12",
-         "KPICorrelation":"1",
-         "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+         "KPIGoal":"18",
+         "KPICorrelation":"3",
+         "Threshold1":"8",
+         "Threshold2":"14",
+         "Threshold3":"18"
    },
    {  
          "TileKey":"Tile18",
          "KPIName":"ORDER NO",
-         "KPIValue":"6.5",
+         "KPIValue":"65",
          "Suffix":"",
          "Prefix":"",
-         "KPIGoal":"12",
-         "KPICorrelation":"1",
-         "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+         "KPIGoal":"88",
+         "KPICorrelation":"2",
+         "Threshold1":"30",
+         "Threshold2":"70",
+         "Threshold3":"88"
    }],
          "ParentKey":"Parent3",
          "KPIName":"SECRET SHOP (AVG)",
-         "KPIValue":"6.5",
+         "KPIValue":"76",
          "Suffix":"",
          "Prefix":"",
-         "KPIGoal":"12",
+         "KPIGoal":"87",
          "KPICorrelation":"1",
-         "Threshold1":"",
-         "Threshold2":"",
-         "Threshold3":""
+         "Threshold1":"78",
+         "Threshold2":"84",
+         "Threshold3":"87"
    }
 
 ]
